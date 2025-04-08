@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in Harbin Institute of Technology. His areas of interest are multimodal large language models, document visual question answering, multimodal document privacy security, etc.
+I am currently a PhD student in Harbin Institute of Technology. My areas of interest are multimodal large language models, document visual question answering, multimodal document privacy security, etc.
 
 # 📝 Publications 
 - Jinxu Zhang, Yu Zhang, DocRouter: Prompt Guided Vision Transformer and Mixture of Experts Connector for Document Understanding. **Infomation Fusion**
