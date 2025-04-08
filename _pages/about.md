@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "jinxuzhang"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /jinxuzhang/
-  - /jinxuzhang.html
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
