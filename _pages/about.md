@@ -20,7 +20,7 @@ redirect_from:
 I am currently a PhD student in Harbin Institute of Technology. My areas of interest are multimodal large language models, document visual question answering, multimodal document privacy security, etc.
 
 # 📝 Publications 
-- Jinxu Zhang, Yu Zhang, DocRouter: Prompt Guided Vision Transformer and Mixture of Experts Connector for Document Understanding. **Infomation Fusion**
+- Jinxu Zhang, Yu Zhang, DocRouter: Prompt Guided Vision Transformer and Mixture of Experts Connector for Document Understanding. **Information Fusion**
 - Jinxu Zhang, Yongqi Yu, and Yu Zhang. 2024. CREAM: Coarse-to-Fine Retrieval and Multi-modal Efficient Tuning for Document VQA. **ACM MM2024**
 - M. Liu, J. Zhang, L. M. Nyagoga and L. Liu, Student-AI Question Cocreation for Enhancing Reading Comprehension. **IEEE Transactions on Learning Technologies**
 
